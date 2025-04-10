@@ -1,0 +1,82 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333;
+  padding: 20px 40px;
+  z-index: 1000;
+  color: white;
+  flex-wrap: wrap;
+}
+
+.nav-logo {
+  font-family: Outfit, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.nav-menu {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 25px;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-left: 0;
+  margin: 10px 0 0 0;
+}
+
+.nav-menu li {
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  transition: color 0.3s ease-in-out;
+  white-space: nowrap;
+}
+
+.nav-menu li:hover {
+  color: #facc15;
+}
+
+/* Tablets */
+@media (max-width: 1024px) {
+  .nav {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px 20px;
+  }
+
+  .nav-menu {
+    justify-content: flex-start;
+    gap: 20px;
+    font-size: 16px;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}
+
+/* Phones */
+@media (max-width: 768px) {
+  .nav {
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 10px;
+  }
+
+  .nav-menu {
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+
+  .nav-menu li {
+    font-size: 16px;
+  }
+}

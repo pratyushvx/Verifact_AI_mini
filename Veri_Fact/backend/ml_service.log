@@ -1,0 +1,245 @@
+2025-04-03 18:53:10,131 - INFO - 127.0.0.1 - - [03/Apr/2025 18:53:10] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-03 18:53:10,387 - INFO - Received prediction request. Text length: 1 chars
+2025-04-03 18:53:10,389 - INFO - Cleaning text...
+2025-04-03 18:53:10,398 - INFO - Text cleaned successfully
+2025-04-03 18:53:10,407 - INFO - Prediction completed. Result: Fake
+2025-04-03 18:53:10,415 - INFO - 127.0.0.1 - - [03/Apr/2025 18:53:10] "POST /predict HTTP/1.1" 200 -
+2025-04-03 19:06:47,205 - INFO - 127.0.0.1 - - [03/Apr/2025 19:06:47] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-03 19:06:47,466 - INFO - Received prediction request. Text length: 4 chars
+2025-04-03 19:06:47,478 - INFO - Cleaning text...
+2025-04-03 19:06:47,481 - INFO - Text cleaned successfully
+2025-04-03 19:06:47,486 - INFO - Prediction completed. Result: Fake
+2025-04-03 19:06:47,488 - INFO - 127.0.0.1 - - [03/Apr/2025 19:06:47] "POST /predict HTTP/1.1" 200 -
+2025-04-03 19:06:52,073 - INFO - Received prediction request. Text length: 4 chars
+2025-04-03 19:06:52,074 - INFO - Cleaning text...
+2025-04-03 19:06:52,077 - INFO - Text cleaned successfully
+2025-04-03 19:06:52,080 - INFO - Prediction completed. Result: Fake
+2025-04-03 19:06:52,083 - INFO - 127.0.0.1 - - [03/Apr/2025 19:06:52] "POST /predict HTTP/1.1" 200 -
+2025-04-03 19:06:55,077 - INFO - 127.0.0.1 - - [03/Apr/2025 19:06:55] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-03 19:06:55,340 - INFO - Received prediction request. Text length: 4 chars
+2025-04-03 19:06:55,341 - INFO - Cleaning text...
+2025-04-03 19:06:55,345 - INFO - Text cleaned successfully
+2025-04-03 19:06:55,348 - INFO - Prediction completed. Result: Fake
+2025-04-03 19:06:55,350 - INFO - 127.0.0.1 - - [03/Apr/2025 19:06:55] "POST /predict HTTP/1.1" 200 -
+2025-04-03 19:06:58,322 - INFO - Received prediction request. Text length: 4 chars
+2025-04-03 19:06:58,323 - INFO - Cleaning text...
+2025-04-03 19:06:58,326 - INFO - Text cleaned successfully
+2025-04-03 19:06:58,331 - INFO - Prediction completed. Result: Fake
+2025-04-03 19:06:58,333 - INFO - 127.0.0.1 - - [03/Apr/2025 19:06:58] "POST /predict HTTP/1.1" 200 -
+2025-04-03 19:08:08,888 - INFO - 127.0.0.1 - - [03/Apr/2025 19:08:08] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-03 19:08:09,140 - INFO - Received prediction request. Text length: 3 chars
+2025-04-03 19:08:09,141 - INFO - Cleaning text...
+2025-04-03 19:08:09,145 - INFO - Text cleaned successfully
+2025-04-03 19:08:09,149 - INFO - Prediction completed. Result: Fake
+2025-04-03 19:08:09,151 - INFO - 127.0.0.1 - - [03/Apr/2025 19:08:09] "POST /predict HTTP/1.1" 200 -
+2025-04-03 19:08:31,144 - INFO - 127.0.0.1 - - [03/Apr/2025 19:08:31] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-03 19:08:31,465 - INFO - Received prediction request. Text length: 6 chars
+2025-04-03 19:08:31,466 - INFO - Cleaning text...
+2025-04-03 19:08:31,469 - INFO - Text cleaned successfully
+2025-04-03 19:08:31,473 - INFO - Prediction completed. Result: Fake
+2025-04-03 19:08:31,475 - INFO - 127.0.0.1 - - [03/Apr/2025 19:08:31] "POST /predict HTTP/1.1" 200 -
+2025-04-03 19:18:53,591 - INFO - 127.0.0.1 - - [03/Apr/2025 19:18:53] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-03 19:18:53,852 - INFO - Received prediction request. Text length: 5 chars
+2025-04-03 19:18:53,853 - INFO - Cleaning text...
+2025-04-03 19:18:53,856 - INFO - Text cleaned successfully
+2025-04-03 19:18:53,862 - INFO - Prediction completed. Result: Fake
+2025-04-03 19:18:53,863 - INFO - 127.0.0.1 - - [03/Apr/2025 19:18:53] "POST /predict HTTP/1.1" 200 -
+2025-04-05 21:32:09,493 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-04-05 21:32:09,493 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-05 21:33:04,025 - INFO - 127.0.0.1 - - [05/Apr/2025 21:33:04] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 21:33:04,291 - INFO - Received prediction request. Text length: 20 chars
+2025-04-05 21:33:04,293 - INFO - Cleaning text...
+2025-04-05 21:33:04,304 - INFO - Text cleaned successfully
+2025-04-05 21:33:04,310 - INFO - Prediction completed. Result: Fake
+2025-04-05 21:33:04,313 - INFO - 127.0.0.1 - - [05/Apr/2025 21:33:04] "POST /predict HTTP/1.1" 200 -
+2025-04-05 21:44:44,301 - INFO - 127.0.0.1 - - [05/Apr/2025 21:44:44] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 21:44:44,564 - INFO - Received prediction request. Text length: 36 chars
+2025-04-05 21:44:44,566 - INFO - Cleaning text...
+2025-04-05 21:44:44,592 - INFO - Text cleaned successfully
+2025-04-05 21:44:44,599 - INFO - Prediction completed. Result: Fake
+2025-04-05 21:44:44,601 - INFO - 127.0.0.1 - - [05/Apr/2025 21:44:44] "POST /predict HTTP/1.1" 200 -
+2025-04-05 21:46:50,893 - INFO - 127.0.0.1 - - [05/Apr/2025 21:46:50] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 21:46:51,157 - INFO - Received prediction request. Text length: 5 chars
+2025-04-05 21:46:51,158 - INFO - Cleaning text...
+2025-04-05 21:46:51,161 - INFO - Text cleaned successfully
+2025-04-05 21:46:51,166 - INFO - Prediction completed. Result: Fake
+2025-04-05 21:46:51,168 - INFO - 127.0.0.1 - - [05/Apr/2025 21:46:51] "POST /predict HTTP/1.1" 200 -
+2025-04-05 21:48:42,177 - INFO - 127.0.0.1 - - [05/Apr/2025 21:48:42] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 21:48:42,428 - INFO - Received prediction request. Text length: 16 chars
+2025-04-05 21:48:42,429 - INFO - Cleaning text...
+2025-04-05 21:48:42,433 - INFO - Text cleaned successfully
+2025-04-05 21:48:42,437 - INFO - Prediction completed. Result: Fake
+2025-04-05 21:48:42,439 - INFO - 127.0.0.1 - - [05/Apr/2025 21:48:42] "POST /predict HTTP/1.1" 200 -
+2025-04-05 22:03:56,691 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-04-05 22:03:56,692 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-05 22:05:48,393 - INFO - 127.0.0.1 - - [05/Apr/2025 22:05:48] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 22:05:48,655 - INFO - Received prediction request. Text length: 25 chars
+2025-04-05 22:05:48,657 - INFO - Cleaning text...
+2025-04-05 22:05:48,680 - INFO - Text cleaned successfully
+2025-04-05 22:05:48,686 - INFO - Prediction completed. Result: Fake
+2025-04-05 22:05:48,689 - INFO - 127.0.0.1 - - [05/Apr/2025 22:05:48] "POST /predict HTTP/1.1" 200 -
+2025-04-05 22:06:50,359 - INFO - 127.0.0.1 - - [05/Apr/2025 22:06:50] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 22:06:50,607 - INFO - Received prediction request. Text length: 26 chars
+2025-04-05 22:06:50,609 - INFO - Cleaning text...
+2025-04-05 22:06:50,612 - INFO - Text cleaned successfully
+2025-04-05 22:06:50,617 - INFO - Prediction completed. Result: Fake
+2025-04-05 22:06:50,619 - INFO - 127.0.0.1 - - [05/Apr/2025 22:06:50] "POST /predict HTTP/1.1" 200 -
+2025-04-05 22:07:16,283 - INFO - 127.0.0.1 - - [05/Apr/2025 22:07:16] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 22:07:16,595 - INFO - Received prediction request. Text length: 23 chars
+2025-04-05 22:07:16,597 - INFO - Cleaning text...
+2025-04-05 22:07:16,601 - INFO - Text cleaned successfully
+2025-04-05 22:07:16,605 - INFO - Prediction completed. Result: Fake
+2025-04-05 22:07:16,609 - INFO - 127.0.0.1 - - [05/Apr/2025 22:07:16] "POST /predict HTTP/1.1" 200 -
+2025-04-05 22:10:32,928 - INFO - 127.0.0.1 - - [05/Apr/2025 22:10:32] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 22:10:33,185 - INFO - Received prediction request. Text length: 529 chars
+2025-04-05 22:10:33,186 - INFO - Cleaning text...
+2025-04-05 22:10:33,191 - INFO - Text cleaned successfully
+2025-04-05 22:10:33,198 - INFO - Prediction completed. Result: Fake
+2025-04-05 22:10:33,201 - INFO - 127.0.0.1 - - [05/Apr/2025 22:10:33] "POST /predict HTTP/1.1" 200 -
+2025-04-05 22:36:28,851 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-04-05 22:36:28,852 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-05 22:37:28,216 - INFO - 127.0.0.1 - - [05/Apr/2025 22:37:28] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 22:37:28,481 - INFO - Received prediction request. Text length: 4761 chars
+2025-04-05 22:37:28,481 - INFO - Cleaning text...
+2025-04-05 22:37:28,491 - INFO - Text cleaned successfully
+2025-04-05 22:37:28,494 - INFO - Prediction completed. Result: Real
+2025-04-05 22:37:28,496 - INFO - 127.0.0.1 - - [05/Apr/2025 22:37:28] "POST /predict HTTP/1.1" 200 -
+2025-04-05 23:07:56,297 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-04-05 23:07:56,298 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-05 23:12:33,912 - INFO - 127.0.0.1 - - [05/Apr/2025 23:12:33] "[33mOPTIONS /retrain HTTP/1.1[0m" 404 -
+2025-04-05 23:12:40,078 - INFO - 127.0.0.1 - - [05/Apr/2025 23:12:40] "[33mOPTIONS /retrain HTTP/1.1[0m" 404 -
+2025-04-05 23:15:49,924 - INFO - 127.0.0.1 - - [05/Apr/2025 23:15:49] "[33mOPTIONS /retrain HTTP/1.1[0m" 404 -
+2025-04-05 23:17:58,257 - INFO - 127.0.0.1 - - [05/Apr/2025 23:17:58] "[33mOPTIONS /retrain HTTP/1.1[0m" 404 -
+2025-04-05 23:19:23,439 - INFO - 127.0.0.1 - - [05/Apr/2025 23:19:23] "[33mOPTIONS /retrain HTTP/1.1[0m" 404 -
+2025-04-05 23:21:56,805 - INFO - 127.0.0.1 - - [05/Apr/2025 23:21:56] "[33mOPTIONS /retrain HTTP/1.1[0m" 404 -
+2025-04-05 23:23:03,884 - INFO - 127.0.0.1 - - [05/Apr/2025 23:23:03] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 23:23:04,136 - INFO - Received prediction request. Text length: 4 chars
+2025-04-05 23:23:04,137 - INFO - Cleaning text...
+2025-04-05 23:23:04,140 - INFO - Text cleaned successfully
+2025-04-05 23:23:04,142 - INFO - Prediction completed. Result: Fake
+2025-04-05 23:23:04,143 - INFO - 127.0.0.1 - - [05/Apr/2025 23:23:04] "POST /predict HTTP/1.1" 200 -
+2025-04-05 23:24:48,807 - INFO - 127.0.0.1 - - [05/Apr/2025 23:24:48] "[33mOPTIONS /retrain HTTP/1.1[0m" 404 -
+2025-04-05 23:26:53,792 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-04-05 23:26:53,792 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-05 23:27:15,448 - INFO - 127.0.0.1 - - [05/Apr/2025 23:27:15] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-05 23:27:15,763 - INFO - 127.0.0.1 - - [05/Apr/2025 23:27:15] "POST /retrain HTTP/1.1" 200 -
+2025-04-05 23:30:40,460 - INFO - 127.0.0.1 - - [05/Apr/2025 23:30:40] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 23:30:40,722 - INFO - Received prediction request. Text length: 67 chars
+2025-04-05 23:30:40,723 - INFO - Cleaning text...
+2025-04-05 23:30:40,735 - INFO - Prediction completed. Result: Fake
+2025-04-05 23:30:40,737 - INFO - 127.0.0.1 - - [05/Apr/2025 23:30:40] "POST /predict HTTP/1.1" 200 -
+2025-04-05 23:31:20,692 - INFO - 127.0.0.1 - - [05/Apr/2025 23:31:20] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-05 23:31:21,031 - ERROR - Retrain error: 'prediction'
+2025-04-05 23:31:21,032 - INFO - 127.0.0.1 - - [05/Apr/2025 23:31:21] "[35m[1mPOST /retrain HTTP/1.1[0m" 500 -
+2025-04-05 23:31:29,500 - INFO - 127.0.0.1 - - [05/Apr/2025 23:31:29] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-05 23:31:29,775 - ERROR - Retrain error: 'prediction'
+2025-04-05 23:31:29,777 - INFO - 127.0.0.1 - - [05/Apr/2025 23:31:29] "[35m[1mPOST /retrain HTTP/1.1[0m" 500 -
+2025-04-05 23:31:57,372 - INFO - 127.0.0.1 - - [05/Apr/2025 23:31:57] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-05 23:31:57,694 - ERROR - Retrain error: 'prediction'
+2025-04-05 23:31:57,696 - INFO - 127.0.0.1 - - [05/Apr/2025 23:31:57] "[35m[1mPOST /retrain HTTP/1.1[0m" 500 -
+2025-04-05 23:33:04,656 - INFO - 127.0.0.1 - - [05/Apr/2025 23:33:04] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-05 23:33:04,933 - ERROR - Retrain error: 'prediction'
+2025-04-05 23:33:04,935 - INFO - 127.0.0.1 - - [05/Apr/2025 23:33:04] "[35m[1mPOST /retrain HTTP/1.1[0m" 500 -
+2025-04-05 23:33:48,981 - INFO - 127.0.0.1 - - [05/Apr/2025 23:33:48] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-05 23:33:49,305 - INFO - 127.0.0.1 - - [05/Apr/2025 23:33:49] "POST /retrain HTTP/1.1" 200 -
+2025-04-05 23:38:05,463 - INFO - 127.0.0.1 - - [05/Apr/2025 23:38:05] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-05 23:38:05,762 - ERROR - Retrain error: 'prediction'
+2025-04-05 23:38:05,763 - INFO - 127.0.0.1 - - [05/Apr/2025 23:38:05] "[35m[1mPOST /retrain HTTP/1.1[0m" 500 -
+2025-04-05 23:41:52,535 - INFO - 127.0.0.1 - - [05/Apr/2025 23:41:52] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-05 23:41:52,845 - ERROR - Retrain error: 'prediction'
+2025-04-05 23:41:52,846 - INFO - 127.0.0.1 - - [05/Apr/2025 23:41:52] "[35m[1mPOST /retrain HTTP/1.1[0m" 500 -
+2025-04-05 23:43:43,472 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-04-05 23:43:43,473 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-05 23:44:06,785 - INFO - 127.0.0.1 - - [05/Apr/2025 23:44:06] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-05 23:44:07,100 - INFO - 127.0.0.1 - - [05/Apr/2025 23:44:07] "POST /retrain HTTP/1.1" 200 -
+2025-04-05 23:44:25,533 - INFO - 127.0.0.1 - - [05/Apr/2025 23:44:25] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 23:44:25,906 - INFO - 127.0.0.1 - - [05/Apr/2025 23:44:25] "POST /predict HTTP/1.1" 200 -
+2025-04-05 23:45:29,744 - INFO - 127.0.0.1 - - [05/Apr/2025 23:45:29] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 23:45:30,057 - INFO - 127.0.0.1 - - [05/Apr/2025 23:45:30] "POST /predict HTTP/1.1" 200 -
+2025-04-05 23:46:10,214 - INFO - 127.0.0.1 - - [05/Apr/2025 23:46:10] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-05 23:46:10,582 - INFO - 127.0.0.1 - - [05/Apr/2025 23:46:10] "POST /retrain HTTP/1.1" 200 -
+2025-04-05 23:46:18,521 - INFO - 127.0.0.1 - - [05/Apr/2025 23:46:18] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 23:46:18,889 - INFO - 127.0.0.1 - - [05/Apr/2025 23:46:18] "POST /predict HTTP/1.1" 200 -
+2025-04-05 23:51:55,991 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-04-05 23:51:55,992 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-05 23:52:52,057 - INFO - 127.0.0.1 - - [05/Apr/2025 23:52:52] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 23:52:52,371 - INFO - 127.0.0.1 - - [05/Apr/2025 23:52:52] "POST /predict HTTP/1.1" 200 -
+2025-04-05 23:53:22,909 - INFO - 127.0.0.1 - - [05/Apr/2025 23:53:22] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-05 23:53:23,274 - INFO - 127.0.0.1 - - [05/Apr/2025 23:53:23] "POST /retrain HTTP/1.1" 200 -
+2025-04-05 23:53:43,237 - INFO - 127.0.0.1 - - [05/Apr/2025 23:53:43] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-05 23:53:43,601 - INFO - 127.0.0.1 - - [05/Apr/2025 23:53:43] "POST /predict HTTP/1.1" 200 -
+2025-04-06 00:33:43,521 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.13.172:5000
+2025-04-06 00:33:43,522 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 00:34:42,710 - INFO - 127.0.0.1 - - [06/Apr/2025 00:34:42] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-06 00:34:43,022 - INFO - 127.0.0.1 - - [06/Apr/2025 00:34:43] "POST /predict HTTP/1.1" 200 -
+2025-04-06 00:35:06,733 - INFO - 127.0.0.1 - - [06/Apr/2025 00:35:06] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-06 00:35:07,099 - INFO - 127.0.0.1 - - [06/Apr/2025 00:35:07] "POST /retrain HTTP/1.1" 200 -
+2025-04-06 00:35:19,777 - INFO - 127.0.0.1 - - [06/Apr/2025 00:35:19] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-06 00:35:20,135 - INFO - 127.0.0.1 - - [06/Apr/2025 00:35:20] "POST /retrain HTTP/1.1" 200 -
+2025-04-06 00:54:34,674 - INFO - 127.0.0.1 - - [06/Apr/2025 00:54:34] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-06 00:54:34,950 - INFO - 127.0.0.1 - - [06/Apr/2025 00:54:34] "POST /retrain HTTP/1.1" 200 -
+2025-04-06 00:57:35,233 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.13.172:5000
+2025-04-06 00:57:35,233 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 00:58:05,895 - INFO - 127.0.0.1 - - [06/Apr/2025 00:58:05] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-06 00:58:06,186 - INFO - 127.0.0.1 - - [06/Apr/2025 00:58:06] "POST /predict HTTP/1.1" 200 -
+2025-04-06 00:58:20,794 - INFO - 127.0.0.1 - - [06/Apr/2025 00:58:20] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-06 00:58:21,141 - INFO - 127.0.0.1 - - [06/Apr/2025 00:58:21] "POST /retrain HTTP/1.1" 200 -
+2025-04-06 01:00:09,225 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.13.172:5000
+2025-04-06 01:00:09,226 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 01:00:32,386 - INFO - 127.0.0.1 - - [06/Apr/2025 01:00:32] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-06 01:00:32,681 - INFO - 127.0.0.1 - - [06/Apr/2025 01:00:32] "POST /retrain HTTP/1.1" 200 -
+2025-04-06 01:27:58,933 - INFO - 127.0.0.1 - - [06/Apr/2025 01:27:58] "[33mOPTIONS /feedback HTTP/1.1[0m" 404 -
+2025-04-06 01:33:13,839 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.13.172:5000
+2025-04-06 01:33:13,840 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 01:33:33,980 - INFO - 127.0.0.1 - - [06/Apr/2025 01:33:33] "[33mOPTIONS /feedback HTTP/1.1[0m" 404 -
+2025-04-06 01:36:57,652 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.13.172:5000
+2025-04-06 01:36:57,653 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 01:37:07,733 - INFO - 127.0.0.1 - - [06/Apr/2025 01:37:07] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-06 01:37:08,036 - INFO - 127.0.0.1 - - [06/Apr/2025 01:37:08] "POST /predict HTTP/1.1" 200 -
+2025-04-06 01:37:25,283 - INFO - 127.0.0.1 - - [06/Apr/2025 01:37:25] "OPTIONS /feedback HTTP/1.1" 200 -
+2025-04-06 01:37:25,615 - INFO - 127.0.0.1 - - [06/Apr/2025 01:37:25] "[31m[1mPOST /feedback HTTP/1.1[0m" 400 -
+2025-04-06 01:41:51,937 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.13.172:5000
+2025-04-06 01:41:51,938 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 01:42:09,558 - INFO - 127.0.0.1 - - [06/Apr/2025 01:42:09] "OPTIONS /feedback HTTP/1.1" 200 -
+2025-04-06 01:42:09,805 - INFO - 127.0.0.1 - - [06/Apr/2025 01:42:09] "POST /feedback HTTP/1.1" 200 -
+2025-04-06 01:42:50,884 - INFO - 127.0.0.1 - - [06/Apr/2025 01:42:50] "OPTIONS /retrain HTTP/1.1" 200 -
+2025-04-06 01:42:51,263 - INFO - 127.0.0.1 - - [06/Apr/2025 01:42:51] "[35m[1mPOST /retrain HTTP/1.1[0m" 500 -

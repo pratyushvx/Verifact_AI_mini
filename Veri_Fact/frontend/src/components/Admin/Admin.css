@@ -1,0 +1,74 @@
+.admin-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #f1f5f9;
+    padding: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .admin-box {
+    background-color: #ffffff;
+    padding: 2rem 3rem;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .admin-box h2 {
+    margin-bottom: 1.5rem;
+    font-size: 24px;
+    color: #111827;
+  }
+  
+  .admin-box input[type="password"] {
+    padding: 0.7rem;
+    width: 100%;
+    margin-bottom: 1rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+  }
+  
+  .admin-box button {
+    padding: 0.7rem 1.5rem;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .admin-box button:hover {
+    background-color: #1d4ed8;
+  }
+  
+  .admin-message {
+    margin-top: 1rem;
+    font-weight: bold;
+    color: #10b981;
+  }
+  
+  .admin-details {
+    text-align: left;
+    margin-top: 1rem;
+    color: #444;
+    background: #f9f9f9;
+    padding: 1rem;
+    border-radius: 8px;
+    max-width: 100%;
+    overflow-x: auto;
+  }
+  
+  .admin-userid {
+    font-size: 14px;
+    color: #6b7280;
+    margin-bottom: 1rem;
+  }
+  

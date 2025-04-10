@@ -1,0 +1,142 @@
+/* General Styles */
+.check-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #121212;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Logo Styling */
+.news-logo {
+  width: 100px;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+/* Heading */
+h2 {
+  font-family: "Outfit", sans-serif;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+/* Form Styling */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  max-width: 600px;
+}
+
+/* Text Area */
+.news-input,
+.feedback-input {
+  width: 100%;
+  height: 150px;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #333;
+  font-size: 16px;
+  background-color: #1e1e1e;
+  color: white;
+  outline: none;
+  resize: none;
+  transition: border-color 0.3s ease-in-out;
+}
+
+.news-input:focus,
+.feedback-input:focus {
+  border-color: #facc15;
+}
+
+/* Character Counter */
+.char-count {
+  font-size: 14px;
+  color: #aaa;
+  text-align: right;
+  margin-bottom: 5px;
+}
+
+/* Buttons */
+.submit-btn,
+.feedback-btn {
+  width: 100%;
+  background-color: #facc15;
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.submit-btn:hover,
+.feedback-btn:hover {
+  background-color: #eab308;
+}
+
+.submit-btn:disabled,
+.feedback-btn:disabled {
+  background-color: gray;
+  cursor: not-allowed;
+}
+
+/* Result Box */
+.result {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 12px;
+  border-radius: 8px;
+  display: inline-block;
+  transition: transform 0.3s ease-in-out;
+}
+
+.fake {
+  color: #ff4d4d;
+  background-color: rgba(255, 77, 77, 0.1);
+}
+
+.real {
+  color: #4caf50;
+  background-color: rgba(76, 175, 80, 0.1);
+}
+
+/* Feedback Section */
+.feedback-section {
+  margin-top: 20px;
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
+}
+
+.feedback-input {
+  height: 100px;
+  border: 1px solid #444;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+  h2 {
+    font-size: 28px;
+  }
+
+  .news-input,
+  .feedback-input {
+    height: 120px;
+  }
+
+  .submit-btn,
+  .feedback-btn {
+    font-size: 16px;
+    padding: 10px;
+  }
+}

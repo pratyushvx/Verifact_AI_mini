@@ -1,0 +1,172 @@
+/* Hero Section */
+.hero {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
+  max-width: 1200px;
+  color: aliceblue;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 100vh;
+  z-index: 10;
+}
+
+/* Hero Text (Bottom Left) */
+.hero-text {
+  position: absolute;
+  bottom: 50px; /* Adjusted for better placement */
+  left: 50px;
+  text-align: left;
+  font-size: 60px; /* Reduced for better fit */
+  font-weight: 500;
+  line-height: 70px;
+  max-width: 50%;
+  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Explore Button */
+.hero-explore {
+  position: absolute;
+  bottom: 40px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  padding: 6px 15px;
+  border-radius: 30px;
+  background-color: white;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.hero-explore p {
+  color: #292929;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.hero-explore:hover {
+  background-color: #facc15;
+  transform: scale(1.05);
+}
+
+/* Navigation Dots (Centered at Bottom) */
+.hero-dot-play {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+}
+
+.hero-dots {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  list-style: none;
+}
+
+.hero-dot {
+  width: 12px;
+  height: 12px;
+  background: #ffffff;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.hero-dot.orange {
+  background: orangered;
+  transform: scale(1.2);
+}
+
+/* Play/Pause Button (Right Bottom) */
+.hero-play {
+  position: absolute;
+  bottom: 40px;
+  right: 50px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.hero-play p {
+  color: #fff;
+  font-size: 16px;
+}
+
+.hero-play img {
+  width: 40px;
+  height: 40px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.hero-play img:hover {
+  transform: scale(1.1);
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .hero-text {
+    font-size: 50px;
+    line-height: 60px;
+    bottom: 40px;
+    left: 40px;
+  }
+
+  .hero-explore {
+    bottom: 30px;
+    left: 40px;
+    padding: 5px 10px;
+    font-size: 14px;
+  }
+
+  .hero-dot {
+    width: 10px;
+    height: 10px;
+  }
+
+  .hero-play {
+    bottom: 30px;
+    right: 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-text {
+    font-size: 40px;
+    line-height: 50px;
+    bottom: 30px;
+    left: 30px;
+    max-width: 60%;
+  }
+
+  .hero-explore {
+    bottom: 20px;
+    left: 30px;
+    padding: 4px 8px;
+    font-size: 12px;
+  }
+
+  .hero-dot {
+    width: 8px;
+    height: 8px;
+  }
+
+  .hero-play {
+    bottom: 20px;
+    right: 30px;
+    font-size: 12px;
+  }
+
+  .hero-play img {
+    width: 30px;
+    height: 30px;
+  }
+}
